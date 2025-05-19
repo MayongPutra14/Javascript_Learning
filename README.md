@@ -5,8 +5,8 @@
 ## 🔹 Progress  
 ### Basic Concepts
 # 📝 Day 1  
-- [x] Learnig Function → [scope, expresion, block scope, dan lexical scope]
-[kode](main/basics/function_scope.js) 
+- [x] Learnig Function → (scope, expresion, block scope, dan lexical scope) →
+[Lihat kode](basics/function_scope.js)  
 
 
 ### 🛠️ Projects  
