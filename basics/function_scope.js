@@ -68,7 +68,15 @@ outter()
 
 // but we have to keep in mind, a variabel in inner function can't accessed in outter, but variabel in outter can accessed in inner.
 
+function multiple() {
+  return multiple * multiple;
+}
 
+const result = multiple(); // this is a fucntion expression
 
+// this is also Function Expression
+const divitionResult = function division() {
+  return division / division;
+};
 
 
