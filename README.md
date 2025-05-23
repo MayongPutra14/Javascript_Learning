@@ -1,11 +1,12 @@
 # 📚 Javascript_Learning
 
-## 📂 Struktur Repo  
+## 📂 Struktur Repo
+``` 
 learning_javascript/
 ├── basic/ # Kode fundamental
 ├── projects/ # Proyek kecil
 └── errors/ # Dokumentasi error
-
+```
 
 ## 🔹 Progress  
 ### Basic Concepts 
@@ -15,6 +16,9 @@ learning_javascript/
 #### 📝 Day 2
 [x] Learning Funtion:
 ✅  Function ➡ as Argument, in return, this, dan define a method ➡ [lihat kode](basics/function_as_argumnet.js)
+#### 📝 Day 3
+[x] Learning Call Back Function in Array:
+✅  Use forEach() And Method Map() ➡ [lihat kode](basics/callBackFunction.js)
 
 
 ### 🛠️ Projects
@@ -23,7 +27,7 @@ learning_javascript/
     - Menggunakan Function dan If Conditional
 
 
-### ❌ Errors & 📔Solutions  
+### ⚠️ Errors & 📔Solutions  
 
 
 ## 🚀 Cara Pakai Repo Ini  
