@@ -5,37 +5,37 @@
 // Contoh variabel global dan lokal
 
 // part 1
-// let programing = "Javascript" // ini variabel global
+let programing = "Javascript" // ini variabel global
 
-// function typeSafe() {
-//     let programing = "C++" // this is variabel local, this variabel only active in this function
-//     // if we want to define variabel in a function, it's oke, but we have to use "var" instead of let and const
-//     // but var is deprecated, unrecomend. 
-// }
+function typeSafe() {
+    let programing = "C++" // this is variabel local, this variabel only active in this function
+    // if we want to define variabel in a function, it's oke, but we have to use "var" instead of let and const
+    // but var is deprecated, unrecomend. 
+}
 
-// console.log(programing);
+console.log(programing);
 
 
 // part 2
-// function typeSafe() {
-//     let programing = "C++" // this is variabel local, this variabel only active in this function
-//     console.log(programing);
-// }
-// // ini this case we need to call the function so that the programing can appear in console
-// typeSafe()//C++
+function typeSafe() {
+    let programing = "C++" // this is variabel local, this variabel only active in this function
+    console.log(programing);
+}
+// ini this case we need to call the function so that the programing can appear in console
+typeSafe()//C++
 
 
 
 // part 3
-// function typeSafe() {
-//      programing = "C++" // this is variabel local, this variabel only active in this function
-//     // console.log(programing);
-// }
+function typeSafe() {
+     programing = "C++" // this is variabel local, this variabel only active in this function
+    // console.log(programing);
+}
 
-// // ini this case, even we change the value of programing in the function
-// // then we call it, the result is javascript, but if we use console.log in the function, then
-// // we turn of the other one, and call the function the result will C++
-// console.log(programing);
+// ini this case, even we change the value of programing in the function
+// then we call it, the result is javascript, but if we use console.log in the function, then
+// we turn of the other one, and call the function the result will C++
+console.log(programing);
 
 
 
@@ -68,7 +68,15 @@ outter()
 
 // but we have to keep in mind, a variabel in inner function can't accessed in outter, but variabel in outter can accessed in inner.
 
+function multiple() {
+  return multiple * multiple;
+}
 
+const result = multiple(); // this is a fucntion expression
 
+// this is also Function Expression
+const divitionResult = function division() {
+  return division / division;
+};
 
 
