@@ -8,6 +8,16 @@ learning_javascript/
 └── errors/ # Dokumentasi error
 ```
 
+## 🚀 Cara Pakai Repo Ini  
+1. Clone repo:  
+   ```bash
+   git clone https://github.com/MayongPutra14/Javascript_Learning.git
+
+  ***NOTE: *** Pada repository ini, kebanyakan inputan dilakukan di terminal. Jadi jika anda ingin menggunakannya, pastikan untuk menginstall npm nya di git bash dengan menjalankan perintah
+  npm install prompt-sync
+  ```
+
+
 ## 🔹 Progress  
 ### Basic Concepts 
 #### 📝 Day 1  
@@ -19,10 +29,18 @@ learning_javascript/
 #### 📝 Day 3
 [x] Learning Call Back Function in Array:
 ✅  Use forEach() And Method Map() ➡ [lihat kode](basics/callBackFunction.js)
+#### 📝 Day 4
+[x] Learning Arrow Function:
+✅  Function: Regular => Expression => Arrow ➡ [lihat kode](basics/ArrowFunction.js)
+[x] Learning setTimeout & setInterval:
+✅ How they work, how to stop setInterval ➡ [lihat kode](basics/setTimeoutseInterval.js)
 
 
-### 🛠️ Projects
-#### Small Project  
+
+
+
+
+### 🛠️ Projects  
 ✅ Konvesi Suhu ➡ [Lihat Project](projects/konversi_suhu.js)
     - Menggunakan Function dan If Conditional
 
@@ -30,10 +48,7 @@ learning_javascript/
 ### ⚠️ Errors & 📔Solutions  
 
 
-## 🚀 Cara Pakai Repo Ini  
-1. Clone repo:  
-   ```bash
-   git clone https://github.com/MayongPutra14/Javascript_Learning.git
+
 
 
 
