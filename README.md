@@ -15,7 +15,7 @@ learning_javascript/
 
   ***NOTE: *** Pada repository ini, kebanyakan inputan dilakukan di terminal. Jadi jika anda ingin menggunakannya, pastikan untuk menginstall npm nya di git bash dengan menjalankan perintah
   npm install prompt-sync
-  ```
+
 
 
 ## 🔹 Progress  
@@ -43,7 +43,7 @@ learning_javascript/
 ### 🛠️ Projects  
 ✅ Konvesi Suhu ➡ [Lihat Project](projects/konversi_suhu.js)
     - Menggunakan Function dan If Conditional
-✅ Mencari Nilai Rerata ➡ [Lihat Project](projects/Average.js)
+✅ Mencari Nilai Rerata ➡ [Lihat Project](projects/)
     - Menggunakan loop forEach
 
 ### ⚠️ Errors & 📔Solutions  
