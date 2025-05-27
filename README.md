@@ -43,7 +43,7 @@ learning_javascript/
 ### 🛠️ Projects  
 ✅ Konvesi Suhu ➡ [Lihat Project](projects/konversi_suhu.js)
     - Menggunakan Function dan If Conditional
-✅ Mencari Nilai Rerata ➡ [Lihat Project](projects/)
+✅ Mencari Nilai Rerata ➡ [Lihat Project](projects/Average.js)
     - Menggunakan loop forEach
 
 ### ⚠️ Errors & 📔Solutions  
