@@ -15,7 +15,7 @@ learning_javascript/
 
   ***NOTE: *** Pada repository ini, kebanyakan inputan dilakukan di terminal. Jadi jika anda ingin menggunakannya, pastikan untuk menginstall npm nya di git bash dengan menjalankan perintah
   npm install prompt-sync
-  ```
+
 
 
 ## 🔹 Progress  
@@ -34,7 +34,11 @@ learning_javascript/
 ✅  Function: Regular => Expression => Arrow ➡ [lihat kode](basics/ArrowFunction.js)
 [x] Learning setTimeout & setInterval:
 ✅ How they work, how to stop setInterval ➡ [lihat kode](basics/setTimeoutseInterval.js)
-
+#### 📝 Day 5
+[x] Learning Filter Function:
+✅  Use filter() ➡ [lihat kode](basics/filterFunction.js)
+[x] Learning Every() and Some():
+✅  How to use them ➡ [lihat kode](basics/EverySomeFunction.js) 
 
 
 
@@ -43,7 +47,8 @@ learning_javascript/
 ### 🛠️ Projects  
 ✅ Konvesi Suhu ➡ [Lihat Project](projects/konversi_suhu.js)
     - Menggunakan Function dan If Conditional
-
+✅ Mencari Nilai Rerata ➡ [Lihat Project](projects/Average.js)
+    - Menggunakan loop forEach
 
 ### ⚠️ Errors & 📔Solutions  
 
