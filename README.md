@@ -22,25 +22,26 @@ learning_javascript/
 ### Basic Concepts 
 #### 📝 Day 1  
 [x] Learnig Function:
-✅ scope, expresion, block scope, dan lexical scope ➡ [Lihat kode](basics/function_scope.js)  
+✅ scope, expresion, block scope, dan lexical scope ➡ [Lihat kode](basics/1.%20function/function_scope.js function_scope.js)  
 #### 📝 Day 2
 [x] Learning Funtion:
-✅  Function ➡ as Argument, in return, this, dan define a method ➡ [lihat kode](basics/function_as_argumnet.js)
+✅  Function ➡ as Argument, in return, this, dan define a method ➡ [lihat kode](basics/1.%20function/function_as_argumnet.js)
 #### 📝 Day 3
 [x] Learning Call Back Function in Array:
-✅  Use forEach() And Method Map() ➡ [lihat kode](basics/callBackFunction.js)
+✅  Use forEach() And Method Map() ➡ [lihat kode](basics/1.%20function/callBackFunction.js)
 #### 📝 Day 4
 [x] Learning Arrow Function:
-✅  Function: Regular => Expression => Arrow ➡ [lihat kode](basics/ArrowFunction.js)
+✅  Function: Regular => Expression => Arrow ➡ [lihat kode](basics/1.%20function/ArrowFunction.js)
 [x] Learning setTimeout & setInterval:
-✅ How they work, how to stop setInterval ➡ [lihat kode](basics/setTimeoutseInterval.js)
+✅ How they work, how to stop setInterval ➡ [lihat kode](basics/1.%20function/setTimeoutseInterval.js)
 #### 📝 Day 5
 [x] Learning Filter Function:
-✅  Use filter() ➡ [lihat kode](basics/filterFunction.js)
+✅  Use filter() ➡ [lihat kode](basics/1.%20function/filterFunction.js)
 [x] Learning Every() and Some():
-✅  How to use them ➡ [lihat kode](basics/EverySomeFunction.js) 
-
-
+✅  How to use them ➡ [lihat kode](basics/1.%20function/EverySomeFunction.js) 
+#### 📝 Day 5
+[x] Learning Reduce(), 'this' in objeck, new featur in javascript
+✅  How to use reduce, this, and new frature in javascript
 
 
 
