@@ -74,10 +74,7 @@ console.log(dataBaru);
 function biodata(nama, umur,...hobi){   
     console.log(`Nama: ${nama}`);
     console.log(`Umur: ${umur}`);
-    for(const element of hobi) {
-        console.log(`Hobi: ${element}`);
-        
-    }
+    console.log(`Hobi: ${hobi} `);
 }
 
 biodata("gilang", 17, "berenang", "memancing", "Membaca");
