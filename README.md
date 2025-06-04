@@ -39,10 +39,11 @@ learning_javascript/
 ✅  Use filter() ➡ [lihat kode](basics/1.%20function/filterFunction.js)
 [x] Learning Every() and Some():
 ✅  How to use them ➡ [lihat kode](basics/1.%20function/EverySomeFunction.js) 
-#### 📝 Day 5
+#### 📝 Day 6
 [x] Learning Reduce(), 'this' in objeck, new featur in javascript
-✅  How to use reduce, this, and new frature in javascript
-
+✅  How to use reduce, this, and new frature in javascript [lihat kode](basics/1.%20function/reduce.js/)
+#### 📝 Day 7
+[x] Learning Destructuring in Array, Object, and Function Parameter [lihat kode](basics/1.%20function/reduce.js/)
 
 
 ### 🛠️ Projects  
