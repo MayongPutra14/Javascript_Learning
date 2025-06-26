@@ -1,0 +1,1 @@
+// pada materi ini, kita sudah membahasanya dalam vidio pyhton, dan juga referensinya bisa diliaht lagi pada course codepolitan javascript dasar.
