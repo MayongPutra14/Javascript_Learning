@@ -22,7 +22,7 @@ Javascript_Learning/
    ```bash
    git clone https://github.com/MayongPutra14/Javascript_Learning.git
 
-  NOTE: Pada repository ini, kebanyakan inputan dilakukan di terminal. Jadi jika anda ingin menggunakannya, pastikan untuk menginstall npm nya di git bash dengan menjalankan perintah
+  NOTE: Didalam repository ini, kebanyakan inputan dilakukan di terminal. Jadi jika anda ingin menggunakannya, pastikan untuk menginstall npm nya di git bash dengan menjalankan perintah
   npm install prompt-sync
 
 
@@ -63,23 +63,35 @@ Javascript_Learning/
 
 #### 🗓️ 05-June-2025
 [x] Learning default parameters [lihat kode](basics/2.%20newFeature/defaultParameter.js)  
-[x] Learning spread operators [lihat kode](basics/2.%20newFeature/spreadOperator.js)
+[x] Learning spread operators [lihat kode](basics/2.%20newFeature/spreadOperator.js)  
+
+
 
 #### 🗓️ 10-June-2025 - Learning OOPJS
 [x] 1. latihan [lihat repository](basics/3.%20OOJS/1.%20latihan/)  
 [x] 2. Constructor [lihat repository](basics/3.%20OOJS/2.%20Constructor%20Function/)  
 [x] 3. Prototype [lihat repository](basics/3.%20OOJS/3.%20Prototype/)  
-[x] 4. Class  [lihat repository](basics/3.%20OOJS/4.%20Class/)
+[x] 4. Class  [lihat repository](basics/3.%20OOJS/4.%20Class/)  
 
-### 🛠️ Projects  
+###  🗓️ 30-June-2025  - 7-July-2025 || Learn Asynchronous  
+[x] Learning Asynchronous [lihat repository](basics/3.%20OOJS/1.%20latihan/)  
+    - Callback
+    - Callback hell
+    - Promise
+    - .then() & .catch()
+    - Async & await
+    - try-catch  
+
+
+# 🛠️ Projects  
 ✅ Konvesi Suhu ➡ [Lihat Project](projects/konversi_suhu.js)  
-    - Menggunakan Function dan If Conditional
+    - Menggunakan Function dan If Conditional  
 ✅ Mencari Nilai Rerata ➡ [Lihat Project](projects/Average.js)  
     - Menggunakan loop forEach  
 ✅ Suit Jepang ➡ [lihat Project](projects/suit-jepang.js)  
     - Menggunakan For loop, array, function, setTimeout, setInterval
 
-### ⚠️ Errors & 📔Solutions  
+
 
 
 
