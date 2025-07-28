@@ -1,5 +1,3 @@
-
-
 const lirik1 =
   "Bila Musim Bergan...ti....\nSampai Waktu terhen...ti.....\nWalau Dunia Memben.....ci.....\nKu kan Tetap Disi.....ni...\n\tBila Habis Sudah\n\tWaktu Ini\n\tTak lagi Berpijak\n\tPada Dunia, Walau Aku Habiskan\n\tSisa Hidupku\n\tHanya Untuk Mu.....";
 let sambungLirik = "";
@@ -16,5 +14,3 @@ const firstinterval = setInterval(() => {
     clearInterval(firstinterval);
   }
 }, 160);
-
-

@@ -89,10 +89,10 @@ Javascript_Learning/
 ✅ Mencari Nilai Rerata ➡ [Lihat Project](projects/Average.js)  
     - Menggunakan loop forEach  
 ✅ Suit Jepang ➡ [lihat Project](projects/suit-jepang.js)  
-    - Menggunakan For loop, array, function, setTimeout, setInterval  
-✅ Lirik Lagu ➡ [lihat Project](projects/SCUS.js)  
-    - Menggunakan setInterval()
-
+    - Menggunakan For loop, array, function, setTimeout, setInterval
+✅ Lirik Lagu ➡ [Liaht Project](Projects/SCUS.js)  
+    - Menggunakan setInterval()  
+    
 
 
 
