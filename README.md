@@ -90,7 +90,9 @@ Javascript_Learning/
     - Menggunakan loop forEach  
 ✅ Suit Jepang ➡ [lihat Project](projects/suit-jepang.js)  
     - Menggunakan For loop, array, function, setTimeout, setInterval
-
+✅ Lirik Lagu ➡ [Liaht Project](Projects/SCUS.js)  
+    - Menggunakan setInterval()  
+    
 
 
 
