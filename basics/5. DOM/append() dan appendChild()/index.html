@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootcamp DOM - Belajar Manipulasi DOM</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="main-header">
+        <h1 id="page-title">Bootcamp Manipulasi DOM</h1>
+        <p class="header-description">Belajar dasar-dasar DOM manipulation dengan JavaScript</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav id="main-nav">
+        <ul class="nav-list">
+            <li class="nav-item"><a href="#intro">Pengenalan</a></li>
+            <li class="nav-item"><a href="#selectors">Selektor</a></li>
+            <li class="nav-item"><a href="#events">Event</a></li>
+            <li class="nav-item"><a href="#practice">Praktikum</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Introduction Section -->
+        <section id="intro" class="content-section">
+            <h2>Pengenalan DOM</h2>
+            <p>DOM adalah representasi dokumen HTML sebagai tree structure.</p>
+            <img src="https://hondasukunmalang.co.id/wp-content/uploads/2024/07/blog-penggerak-5.webp" alt="">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxROIUlH-8Ao0ySFg5Mf8pdFpZLMKk9h7mpg&s" alt="">
+            <div class="example-box">
+                <p>Contoh elemen dengan <span class="highlight">beberapa span</span> di dalamnya.</p>
+            </div>
+        </section>
+
+        <!-- Selectors Section -->
+        <section id="selectors" class="content-section">
+            <h2>Memilih Elemen</h2>
+            <p>Kita bisa memilih elemen dengan berbagai cara:</p>
+            <ul class="selector-list">
+                <li data-type="selector">getElementById()</li>
+                <li data-type="selector">getElementsByClassName()</li>
+                <li data-type="selector">getElementsByTagName()</li>
+                <li data-type="selector">querySelector()</li>
+                <li data-type="selector">querySelectorAll()</li>
+            </ul>
+        </section>
+
+        <!-- Events Section -->
+        <section id="events" class="content-section">
+            <h2>Event Handling</h2>
+            <p>Kita bisa menambahkan interaksi dengan event listeners:</p>
+            <div class="event-examples">
+                <button id="click-me" class="demo-button">Klik Saya!</button>
+                <input type="text" id="input-demo" placeholder="Ketik sesuatu...">
+            </div>
+        </section>
+
+        <!-- Practice Section -->
+        <section id="practice" class="content-section">
+            <h2>Area Praktikum</h2>
+            <div class="practice-area">
+                <div id="playground" class="dom-playground">
+                    <p>Area ini akan dimanipulasi menggunakan JavaScript.</p>
+                </div>
+                <form id="practice-form" class="demo-form">
+                    <input type="text" id="name-input" placeholder="Nama Anda">
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </section>
+
+
+
+        <!-- Paraktikum baru -->
+         <section id="praktikum" class="content-section">
+            <h2>Praktikum 2</h2>
+
+         </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <p>&copy; 2023 Bootcamp DOM. Semua hak dilindungi.</p>
+    </footer>
+
+    <!-- Kita akan menambahkan script JavaScript nanti -->
+    <script src="appendChild.js"></script>
+    <script src="append.js"></script>
+</body>
+</html>

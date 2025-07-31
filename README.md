@@ -82,6 +82,14 @@ Javascript_Learning/
     - Async & await
     - try-catch  
 
+### 🗓️ 14-July-2025  - 2025 || Learn Document Object Model  
+    Introduction to DOM:  
+    - Innertext, InnerHTML, textContent  
+    - getElmenetById(), getElmenetByTagName(), and getElementByClassName  
+    - querySelector() and querySelectorAll()  
+    - classList()  
+    - append() and appendChild()
+    - remove() and removeChild
 
 # 🛠️ Projects  
 ✅ Konvesi Suhu ➡ [Lihat Project](projects/konversi_suhu.js)  
